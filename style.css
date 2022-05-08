@@ -161,10 +161,10 @@ body {
 .education-contents,
 .awards-contents {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(2, 2fr);
     color: #F1F8FD;
     padding-bottom: 1rem;
-    padding-left: 1rem
+    padding-left: 2rem
 }
 
 .exp-company-name,
@@ -202,7 +202,7 @@ body {
 .exp-desc,
 .education-desc,
 .awards-desc {
-    font-size: 16px;
+    font-size: 18px;
     letter-spacing: 1px;
     line-height: 1.5rem;
     border-left: 3px solid #FDB44B;
